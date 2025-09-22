@@ -43,7 +43,7 @@ Sigue estos simples pasos:
 
 1. **Interfaz Principal**:
 
-![Interfaz de Amigo Secreto](assets/captura-proyecto.png)
+![Interfaz de Amigo Secreto](https://github.com/CamilaMora21/Challenge-Amigo-Secreto---ALURA/blob/main/assets/Interface_Principal.png?raw=true)
 
 2. **Flujo de uso**:
 
