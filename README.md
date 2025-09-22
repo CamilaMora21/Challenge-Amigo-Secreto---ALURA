@@ -43,7 +43,7 @@ Sigue estos simples pasos:
 
 1. **Interfaz Principal**:
 
-![Pg.principal](https://assets/Interfaz_Principal.png)
+![Interfaz de Amigo Secreto](assets/captura-proyecto.png)
 
 2. **Flujo de uso**:
 
